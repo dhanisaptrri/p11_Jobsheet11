@@ -9,7 +9,7 @@ public class Perulangan07{
         System.out.print("Masukan nilai N = ");
         int N = scan.nextInt();
 
-        for(int i=0; i>N; i++){
+        for(int i=0; i<=N; i--){
             System.out.print("*");
 
         }
